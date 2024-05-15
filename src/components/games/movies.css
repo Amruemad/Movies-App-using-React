@@ -1,0 +1,12 @@
+.pag {
+  width: 1400px;
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#root {
+  background-color: #1d1d1d;
+}
